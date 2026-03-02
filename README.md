@@ -5,5 +5,5 @@ a school project where we have to create a training method for learning new lang
 
 Made by:
 
-Casper (Role)
-Kevin (Role)
+Casper (Product owner)
+Kevin (Scrummaster)
