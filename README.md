@@ -7,4 +7,3 @@ Made by:
 
 Casper (Product owner)
 Kevin (Scrummaster)
-Jely (Developer)
