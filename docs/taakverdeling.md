@@ -3,7 +3,7 @@ Klant gesprekken voeren/aanvragen: Casper en Kevin
 Moodboard maken: Kevin en Casper
 Scrummaster: Kevin
 Vragen bedenken: Casper
-DATABASE ontwerpen: Jely
+DATABASE ontwerpen: Kevin
 Wireframe maken: Kevin
 Background maken: Kevin
 concept file maken/beheren: Kevin
